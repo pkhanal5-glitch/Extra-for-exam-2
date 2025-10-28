@@ -1,5 +1,4 @@
 //Queue using the two stacks-medium
-// File: src/two_stacks_queue.cpp
 #include <bits/stdc++.h>
 using namespace std;
 
